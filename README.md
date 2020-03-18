@@ -1,7 +1,7 @@
 # vueEslintDemo
 
 #### 介绍
-简单配置eslint
+简单配置eslint, 添加gitHooks
 
 #### 软件架构
 软件架构说明
